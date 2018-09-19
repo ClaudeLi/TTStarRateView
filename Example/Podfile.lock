@@ -1,5 +1,5 @@
 PODS:
-  - TTStarRateView (0.1.0)
+  - TTStarRateView (1.0.0)
 
 DEPENDENCIES:
   - TTStarRateView (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  TTStarRateView: 8cd77e5609781783dceeb40d775c310a6a2590b3
+  TTStarRateView: f5a921d64bdc8dd02b8fc2ca0fb181b9afe7dcb8
 
 PODFILE CHECKSUM: 1bce28706568396036d5acb2f84c4162d56b8fdd
 
