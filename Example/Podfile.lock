@@ -1,0 +1,16 @@
+PODS:
+  - TTStarRateView (0.1.0)
+
+DEPENDENCIES:
+  - TTStarRateView (from `../`)
+
+EXTERNAL SOURCES:
+  TTStarRateView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TTStarRateView: 8cd77e5609781783dceeb40d775c310a6a2590b3
+
+PODFILE CHECKSUM: 1bce28706568396036d5acb2f84c4162d56b8fdd
+
+COCOAPODS: 1.5.3

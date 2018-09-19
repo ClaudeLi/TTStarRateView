@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TTStarRateView_Example' do
+  pod 'TTStarRateView', :path => '../'
+
+  target 'TTStarRateView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
